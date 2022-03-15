@@ -8,4 +8,10 @@ Imersão Dev Alura 2022
  Aula 05 - Funções
  Aula 06 - Objetos e tabelas de classificação
 ```
+
+## Instrutores da Alura nessa Imersão:
+* Paulo Silveira
+* Rafaella Ballerini
+* Guilherme Lima
+
 #### Utilizando: HTML5, CSS3 e JS
