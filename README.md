@@ -10,8 +10,8 @@ Imersão Dev Alura 2022
 ```
 
 ## Instrutores da Alura nessa Imersão:
-* Paulo Silveira
-* Rafaella Ballerini
-* Guilherme Lima
+* <a href="https://www.linkedin.com/in/paulosilveira/">Paulo Silveira</a>
+* <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a/">Rafaella Ballerini</a>
+* <a href="https://www.linkedin.com/in/guilherme-lima-developer/">Guilherme Lima</a>
 
 #### Utilizando: HTML5, CSS3 e JS
