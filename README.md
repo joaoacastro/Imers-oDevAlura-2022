@@ -8,7 +8,7 @@ Imersão Dev Alura 2022
  Aula 05 - Funções
  Aula 06 - Objetos e tabelas de classificação
  Aula 07 - Super Trunfo - lógica do jogo - part 1
- Aula 08 - Super Trunfo - Cartas do jogo - part 2
+ Aula 08 - Super Trunfo - Cartas do jogo - part 2 (https://joaoacastro.github.io/SuperTrunfoPokemon/)
 ```
 
 ## Instrutores da Alura nessa Imersão:
