@@ -7,6 +7,8 @@ Imersão Dev Alura 2022
  Aula 04 - Array, lista e AluraFlix
  Aula 05 - Funções
  Aula 06 - Objetos e tabelas de classificação
+ Aula 07 - Super Trunfo - lógica do jogo - part 1
+ Aula 08 - Super Trunfo - Cartas do jogo - part 2
 ```
 
 ## Instrutores da Alura nessa Imersão:
